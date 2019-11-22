@@ -24,7 +24,7 @@
     "core-js": "^2.6.5",
     "fastclick": "^1.0.6",
     "normalize.css": "^8.0.1",
-    "vant": "^2.0.0",
+    "vant": "^2.1.8",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
     "vue-ls": "^3.2.1",
